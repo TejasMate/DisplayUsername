@@ -3,9 +3,9 @@
 
 using namespace std;
 
-void Welcome()  //Function Declaration and Defination
+void Thanks()   //Function Declaration and Defination
 {
-    cout<<" _______________________________________________________________ "<<endl;
-    cout<<"                        Welcome to GCI                           "<<endl;
-    cout<<" _______________________________________________________________ "<<endl;
+    cout<<" ________________________________________________________________ "<<endl;
+    cout<<"                            Thank You                             "<<endl;
+    cout<<" ________________________________________________________________ "<<endl;
 }
