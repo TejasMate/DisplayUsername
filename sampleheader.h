@@ -1,0 +1,2 @@
+void Welcome();
+void Thanks();
